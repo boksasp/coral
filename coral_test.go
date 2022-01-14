@@ -4,7 +4,7 @@ import (
 	"testing"
 )
 
-func TesFoundMatchInArray(t *testing.T) {
+func TestFoundMatchInArray(t *testing.T) {
 	input := `{
 		"id": "0001",
 		"type": "donut",
